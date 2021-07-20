@@ -160,6 +160,9 @@ hs_err_pid*
 *.ko
 *.obj
 *.elf
+*.win
+*.dev
+*.layout
 
 # Linker output
 *.ilk
