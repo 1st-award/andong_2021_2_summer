@@ -8,7 +8,7 @@ void comp(int num) {
 void main (void) {
 	int i, j, max, cnt;
 	
-	printf("ÀÚ¿¬¼ö ÀÔ·Â(3~30): ");
+	printf("ï¿½Ú¿ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½(3~30): ");
 	scanf("%d", &max);	comp(max);	int arr[max][max];	cnt = max;
 	
 	for(i=0; i<max; ++i) {
@@ -18,5 +18,4 @@ void main (void) {
 		}
 		cnt = 5;
 		puts("");
-	}
 }
